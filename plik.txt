@@ -1,8 +1,8 @@
-Pierwsza linia - zmieniam sobie w masterze. okolo 15 godziny.
+Pierwsza linia - zmieniam sobie w czytancce. okolo 15 godziny.
 Druga linia - teraz poprawiam.
 Trzecia linia
 Czwarta linia w VSCode.
 Piąta linia dopisana w masterze.
-Szósta linia, master wie najlepiej.
-Siódma linia.
-Pajton jest glupi.
+Szósta linia, master.
+Siódma linia w masterze.
+Python jest fajny.
