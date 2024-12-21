@@ -1,4 +1,4 @@
-Pierwsza linia
+Pierwsza linia - zmieniam sobie w masterze. okolo 15 godziny.
 Druga linia - teraz poprawiam.
 Trzecia linia
 Czwarta linia w VSCode.
