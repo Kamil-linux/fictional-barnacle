@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 czerwony -red
 zielony -green
 niebieski -blue
 
+=======
+czerwony
+zielony
+niebieski
+>>>>>>> 5eebf9a (RGB po polsku)
