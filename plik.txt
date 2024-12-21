@@ -6,3 +6,4 @@ Piąta linia dopisana w masterze.
 Szósta linia, master.
 Siódma linia w masterze.
 Python jest fajny.
+ZMian master kolejna.
