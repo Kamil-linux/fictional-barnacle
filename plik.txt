@@ -1,4 +1,4 @@
 Pierwsza linia
-Druga linia
+Druga linia - teraz poprawiam.
 Trzecia linia
 Czwarta linia w VSCode.
