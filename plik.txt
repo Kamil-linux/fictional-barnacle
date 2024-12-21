@@ -3,5 +3,6 @@ Druga linia - teraz poprawiam.
 Trzecia linia
 Czwarta linia w VSCode.
 Piąta linia dopisana w masterze.
-Szósta linia, master.
+Szósta linia, master wie najlepiej.
 Siódma linia.
+Pajton jest glupi.
