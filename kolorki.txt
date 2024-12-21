@@ -1,0 +1,4 @@
+czerwony -red
+zielony -green
+niebieski -blue
+
