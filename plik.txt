@@ -8,3 +8,4 @@ Siódma linia w masterze.
 Python jest fajny.
 ZMian master kolejna.
 Kolejna zmiana w kolorowance.
+Dopisane na serwerze github.
