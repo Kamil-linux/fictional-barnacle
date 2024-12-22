@@ -9,3 +9,4 @@ Python jest fajny.
 ZMian master kolejna.
 Kolejna zmiana w kolorowance.
 Dopisane na serwerze github, poprawak, drugi commit.
+I jeszcze ostatnia zmiana githubowa.
